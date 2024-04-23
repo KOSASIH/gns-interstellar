@@ -48,14 +48,15 @@ cd vulkansdk
 wget https://sdk.lunarg.com/sdk/download/1.2.198.1/linux/vulkansdk-linux-x86_64-1.2.198.1.tar.gz
 tar -xf vulkansdk-linux-x86_64-1.2.198.1.tar.gz
 source 1.2.198.1/setup-env.sh
-cd ../
-Install PyTorch with CUDA 11.0+:`
+cd ../`
+
+5. Install PyTorch with CUDA 11.0+:
 
 
 `conda install pytorch=1.11 pytorch-cuda=11.7 -c pytorch -c nvidia
 python -c "import torch; print(torch.version.cuda)"`
 
-4. Install the required Python packages:
+6. Install the required Python packages:
 
 
 `pip install -r requirements.txt`
