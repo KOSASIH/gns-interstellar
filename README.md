@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 
-`git clone --recurse-submodules https://github.com/your-username/gns-interstellar.git`
+`git clone --recurse-submodules https://github.com/KOSASIH/gns-interstellar.git`
 
 2. Create a conda environment:
 
