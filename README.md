@@ -119,5 +119,5 @@ To train the neural network, run:
 
 `python train.py`
 
-This will train the network using the default settings. You can modify the settings in the train.py file.For more information, refer to the Training Guide.
+This will train the network using the default settings. You can modify the settings in the train.py file.For more information, refer to the [Training Guide](training_guide.md) 
 
