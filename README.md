@@ -32,14 +32,17 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 
-`git clone --recurse-submodules https://github.com/KOSASIH/gns-interstellar.git`
+```
+git clone --recurse-submodules https://github.com/KOSASIH/gns-interstellar.git`
+```
 
 2. Create a conda environment:
 
-
-`cd gns-interstellar
+```
+cd gns-interstellar
 conda create -n gns python=3.9 cmake=3.22
-conda activate gns`
+conda activate gns
+```
 
 3. Download and install the Vulkan SDK:
 
