@@ -61,7 +61,6 @@
 [![American Institute of Aeronautics and Astronautics (AIAA)](https://img.shields.io/badge/AIAA-Member-FF7F00?style=flat&logo=aiaa)](https://www.aiaa.org/)
 [![International Space University (ISU)](https://img.shields.io/badge/ISU-Member-FFB30D?style=flat&logo=international-space-university)](https://www.isunet.edu/)
 [![Space Generation Advisory Council (SGAC)](https://img.shields.io/badge/SGAC-Member-0072B8?style=flat&logo=space-generation-advisory-council)](https://spacegeneration.org/)
-[![International Academy of Astronautics (IAA)](https://img.shields.io/badge/IAA-Member-FFB30D?style=flat&logo=international-academy-of-astronautics)](https://iaaweb.org/)
 [![Canadian Space Agency (CSA)](https://img.shields.io/badge/CSA-Member-0072B8?style=flat&logo=canadian-space-agency)](https://www.asc-csa.gc.ca/)
 [![Space Foundation](https://img.shields.io/badge/Space%20Foundation-Member-0072B8?style=flat&logo=space-foundation)](https://www.spacefoundation.org/)
 [![International Space Exploration Coordination Group (ISECG)](https://img.shields.io/badge/ISECG-Member-003DA5?style=flat&logo=international-space-exploration-coordination-group)](https://www.globalspaceexploration.org/)
