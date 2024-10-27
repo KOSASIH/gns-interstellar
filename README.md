@@ -84,7 +84,6 @@
 [![International Space Exploration Coordination Group (ISECG)](https://img.shields.io/badge/ISECG-Member-FFB30D?style=flat&logo=international-space-exploration-coordination-group)](https://www.globalspaceexploration.org/)
 [![Space Robotics Association (SRA)](https://img.shields.io/badge/SRA-Member-0072B8?style=flat&logo=space-robotics-association)](https://www.spaceroboticsassociation.org/)
 [![Astroscale](https://img.shields.io/badge/Astroscale-Member-FFB30D?style=flat&logo=astroscale)](https://astroscale.com/)
-[![International Academy of Astronautics (IAA)](https://img.shields.io/badge/IAA-Member-003DA5?style=flat&logo=international-academy-of-astronautics)](https://iaaweb.org/)
 [![Space and Satellite Professionals International (SSPI)](https://img.shields.io/badge/SSPI-Member-0072B8?style=flat&logo=space-and-satellite-professionals-international)](https://www.sspi.org/)
 [![Global Space Exploration Conference (GLEX)](https://img.shields.io/badge/GLEX-Member-FFB30D?style=flat&logo=global-space-exploration-conference)](https://www.glex2021.org/)
 [![Space Studies Institute (SSI)](https://img.shields.io/badge/SSI-Member-0072B8?style=flat&logo=space-studies-institute)](https://www.ssi.org/)
@@ -93,7 +92,6 @@
 [![Commercial Spaceflight Federation (CSF)](https://img.shields.io/badge/CSF-Member-0072B8?style=flat&logo=commercial-spaceflight-federation)](https://www.commercialspaceflight.org/)
 [![Space Data Association (SDA)](https://img.shields.io/badge/SDA-Member-FFB30D?style=flat&logo=space-data-association)](https://www.space-data.org/)
 [![Space Security Index (SSI)](https://img.shields.io/badge/SSI-Member-003DA5?style=flat&logo=space-security-index)](https://spacesecurityindex.org/)
-[![International Academy of Astronautics (IAA)](https://img.shields.io/badge/IAA-Member-0072B8?style=flat&logo=international-academy-of-astronautics)](https://iaaweb.org/)
 [![Astrobiology Society of America (ASA)](https://img.shields.io/badge/ASA-Member-FFB30D?style=flat&logo=astrobiology-society-of-america)](https://www.astrobiology.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/gns-interstellar">Galactic Navigation System ( GNS ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
