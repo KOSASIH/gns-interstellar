@@ -78,7 +78,6 @@
 [![Space Data Association (SDA)](https://img.shields.io/badge/SDA-Member-0072B8?style=flat&logo=space-data-association)](https://www.space-data.org/)
 [![International Space University (ISU)](https://img.shields.io/badge/ISU-Member-FFB30D?style=flat&logo=international-space-university)](https://www.isunet.edu/)
 [![Space Frontier Foundation](https://img.shields.io/badge/SFF-Member-0072B8?style=flat&logo=space-frontier-foundation)](https://spacefrontier.org/)
-[![Planetary Society](https://img.shields.io/badge/Planetary%20Society-Member-FFB30D?style=flat&logo=planetary-society)](https://www.planetarysociety.org/)
 [![National Aeronautics and Space Administration (NASA)](https://img.shields.io/badge/NASA-Member-003DA5?style=flat&logo=nasa)](https://www.nasa.gov/)
 [![Space Policy Institute (SPI)](https://img.shields.io/badge/SPI-Member-0072B8?style=flat&logo=space-policy-institute)](https://spi.gwu.edu/)
 [![International Space Exploration Coordination Group (ISECG)](https://img.shields.io/badge/ISECG-Member-FFB30D?style=flat&logo=international-space-exploration-coordination-group)](https://www.globalspaceexploration.org/)
