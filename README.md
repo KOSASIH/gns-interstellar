@@ -125,34 +125,34 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 
-```
-git clone --recurse-submodules https://github.com/KOSASIH/gns-interstellar.git`
+```bash
+1 git clone --recurse-submodules https://github.com/KOSASIH/gns-interstellar.git`
 ```
 
 2. Create a conda environment:
 
-```
-cd gns-interstellar
-conda create -n gns python=3.9 cmake=3.22
-conda activate gns
+```python
+1 cd gns-interstellar
+2 conda create -n gns python=3.9 cmake=3.22
+3 conda activate gns
 ```
 
 3. Download and install the Vulkan SDK:
 
-```
-mkdir vulkansdk
-cd vulkansdk
-wget https://sdk.lunarg.com/sdk/download/1.2.198.1/linux/vulkansdk-linux-x86_64-1.2.198.1.tar.gz
-tar -xf vulkansdk-linux-x86_64-1.2.198.1.tar.gz
-source 1.2.198.1/setup-env.sh
-cd ../
+```python
+1 mkdir vulkansdk
+2 cd vulkansdk
+3 wget https://sdk.lunarg.com/sdk/download/1.2.198.1/linux/vulkansdk-linux-x86_64-1.2.198.1.tar.gz
+4 tar -xf vulkansdk-linux-x86_64-1.2.198.1.tar.gz
+5 source 1.2.198.1/setup-env.sh
+6 cd ../
 ```
 
 5. Install PyTorch with CUDA 11.0+:
 
-```
-conda install pytorch=1.11 pytorch-cuda=11.7 -c pytorch -c nvidia
-python -c "import torch; print(torch.version.cuda)"
+```python
+1 conda install pytorch=1.11 pytorch-cuda=11.7 -c pytorch -c nvidia
+2 python -c "import torch; print(torch.version.cuda)"
 ```
 
 6. Install the required Python packages:
@@ -170,11 +170,11 @@ python -c "import torch; print(torch.version.cuda)"
 
 Build the C++ components:
 
-```
-mkdir build
-cd build
-cmake ..
-make
+```bash
+1 mkdir build
+2 cd build
+3 cmake ..
+4 make
 ```
 
 # Running
@@ -187,9 +187,9 @@ Run the Python scripts:
 
 The documentation is available in the docs folder. To generate the documentation, run:
 
-```
-cd docs
-make html
+```bash
+1 cd docs
+2 make html
 ```
 
 The generated documentation will be available in the _build/html folder.
@@ -198,15 +198,15 @@ The generated documentation will be available in the _build/html folder.
 
 If you use this code in your research, please cite the following:
 
-```
-@article{your-paper,
-  title={Your Paper Title},
-  author={Your Name},
-  journal={Journal Name},
-  year={Year},
-  publisher={Publisher},
-  url={https://your-paper-url.com}
-}
+```bash
+1 @article{your-paper,
+2   title={Your Paper Title},
+3   author={Your Name},
+4   journal={Journal Name},
+5   year={Year},
+6   publisher={Publisher},
+7   url={https://your-paper-url.com}
+8 }
 ```
 
 # Training
