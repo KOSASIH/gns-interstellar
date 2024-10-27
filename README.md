@@ -86,7 +86,6 @@
 [![National Space Society (NSS)](https://img.shields.io/badge/NSS-Member-FFB30D?style=flat&logo=national-space-society)](https://space.nss.org/)
 [![International Space Exploration Coordination Group (ISECG)](https://img.shields.io/badge/ISECG-Member-003DA5?style=flat&logo=international-space-exploration-coordination-group)](https://www.globalspaceexploration.org/)
 [![Commercial Spaceflight Federation (CSF)](https://img.shields.io/badge/CSF-Member-0072B8?style=flat&logo=commercial-spaceflight-federation)](https://www.commercialspaceflight.org/)
-[![Space Data Association (SDA)](https://img.shields.io/badge/SDA-Member-FFB30D?style=flat&logo=space-data-association)](https://www.space-data.org/)
 [![Space Security Index (SSI)](https://img.shields.io/badge/SSI-Member-003DA5?style=flat&logo=space-security-index)](https://spacesecurityindex.org/)
 [![Astrobiology Society of America (ASA)](https://img.shields.io/badge/ASA-Member-FFB30D?style=flat&logo=astrobiology-society-of-america)](https://www.astrobiology.org/)
 
