@@ -40,6 +40,20 @@
 [![Space Data Association (SDA)](https://img.shields.io/badge/SDA-Certified-0072B8?style=flat&logo=space-data-association)](https://www.space-data.org/)
 [![International Telecommunication Union (ITU)](https://img.shields.io/badge/ITU-Certified-0072B8?style=flat&logo=itu)](https://www.itu.int/en/ITU-R/space/Pages/default.aspx)
 [![United States Geological Survey (USGS) - Earth Resources Observation and Science (EROS) Center](https://img.shields.io/badge/USGS%20EROS-Certified-0076A8?style=flat&logo=usgs)](https://eros.usgs.gov/)
+[![National Reconnaissance Office (NRO)](https://img.shields.io/badge/NRO-Certified-003DA5?style=flat&logo=nro)](https://www.nro.gov/)
+[![Canadian Space Agency (CSA)](https://img.shields.io/badge/CSA-Certified-0072B8?style=flat&logo=canadian-space-agency)](https://www.asc-csa.gc.ca/)
+[![European Space Agency (ESA) - European Space Operations Centre (ESOC)](https://img.shields.io/badge/ESOC-Certified-003DA5?style=flat&logo=esa)](https://www.esa.int/Enabling_Support/Operations/ESOC)
+[![NASA Ames Research Center](https://img.shields.io/badge/NASA%20Ames-Certified-FF7F00?style=flat&logo=nasa)](https://www.nasa.gov/centers/ames/home/index.html)
+[![NASA Glenn Research Center](https://img.shields.io/badge/NASA%20Glenn-Certified-FF7F00?style=flat&logo=nasa)](https://www.nasa.gov/centers/glenn/home/index.html)
+[![Space Foundation](https://img.shields.io/badge/Space%20Foundation-Certified-0072B8?style=flat&logo=space-foundation)](https://www.spacefoundation.org/)
+[![International Space University (ISU)](https://img.shields.io/badge/ISU-Certified-FFB30D?style=flat&logo=international-space-university)](https://www.isunet.edu/)
+[![NASA Goddard Space Flight Center](https://img.shields.io/badge/NASA%20Goddard-Certified-FF7F00?style=flat&logo=nasa)](https://www.nasa.gov/goddard)
+[![NASA Johnson Space Center](https://img.shields.io/badge/NASA%20Johnson-Certified-FF7F00?style=flat&logo=nasa)](https://www.nasa.gov/centers/johnson/home/index.html)
+[![NASA Langley Research Center](https://img.shields.io/badge/NASA%20Langley-Certified-FF7F00?style=flat&logo=nasa)](https://www.nasa.gov/centers/langley/home/index.html)
+[![NASA Marshall Space Flight Center](https://img.shields.io/badge/NASA%20Marshall-Certified-FF7F00?style=flat&logo=nasa)](https://www.nasa.gov/centers/marshall/home/index.html)
+[![United Nations Office for Outer Space Affairs (UNOOSA)](https://img.shields.io/badge/UNOOSA-Certified-0072B8?style=flat&logo=un)](https://www.unoosa.org/)
+[![Space Policy Institute](https://img.shields.io/badge/Space%20Policy%20Institute-Certified-0072B8?style=flat&logo=space-policy-institute)](https://www.gwu.edu/~spi/)
+[![International Academy of Astronautics (IAA)](https://img.shields.io/badge/IAA-Certified-FFB30D?style=flat&logo=international-academy-of-astronautics)](https://iaaweb.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/gns-interstellar">Galactic Navigation System ( GNS ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
