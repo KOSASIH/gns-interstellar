@@ -72,7 +72,6 @@
 [![Global Space Innovation Conference (GSIC)](https://img.shields.io/badge/GSIC-Member-FFB30D?style=flat&logo=global-space-innovation-conference)](https://www.gsic.space/)
 [![Space Generation Advisory Council (SGAC)](https://img.shields.io/badge/SGAC-Member-0072B8?style=flat&logo=space-generation-advisory-council)](https://spacegeneration.org/)
 [![International Space Station National Laboratory (ISSNL)](https://img.shields.io/badge/ISSNL-Member-FFB30D?style=flat&logo=international-space-station)](https://www.issnationallab.org/)
-[![International Academy of Astronautics (IAA)](https://img.shields.io/badge/IAA-Member-FFB30D?style=flat&logo=international-academy-of-astronautics)](https://iaaweb.org/)
 [![European Space Agency (ESA)](https://img.shields.io/badge/ESA-Member-003DA5?style=flat&logo=esa)](https://www.esa.int/)
 [![Space Data Association (SDA)](https://img.shields.io/badge/SDA-Member-0072B8?style=flat&logo=space-data-association)](https://www.space-data.org/)
 [![International Space University (ISU)](https://img.shields.io/badge/ISU-Member-FFB30D?style=flat&logo=international-space-university)](https://www.isunet.edu/)
